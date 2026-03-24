@@ -1,6 +1,6 @@
 # Michael Esan — Portfolio Website
 
-> Personal portfolio of **Michael Esan**, Full Stack Developer based in Lagos, Nigeria.  
+> Personal portfolio of **Michael Esan**, Full Stack Developer based in Sheffield, UK.  
 > Built with pure HTML, CSS, and JavaScript — no frameworks, no build tools.
 
 🌐 **Live Site:** [thekinghimself.netlify.app](https://thekinghimself.netlify.app)
@@ -92,11 +92,11 @@ Full-stack website for a cleaning service · HTML5 · CSS3 · JavaScript · Mong
 | | |
 |--|--|
 | 📧 Email | [1stmking@gmail.com](mailto:1stmking@gmail.com) |
-| 📞 Phone | +234 906 901 8772 |
+| 📞 Phone | +44 739 154 6849 |
 | 🌐 Website | [thekinghimself.netlify.app](https://thekinghimself.netlify.app) |
 
 ---
 
 <p align="center">
-  Made with ♥ in Lagos, Nigeria &nbsp;·&nbsp; © 2026 Michael Esan
+  Made with ♥ in Sheffied, UK &nbsp;·&nbsp; © 2026 Michael Esan
 </p>
